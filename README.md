@@ -14,7 +14,7 @@ Install Leiningen:
     lein git-deps
     echo "Congo" | lein run
 
-The above will produce the following results sorted by similarity score in descending order:
+The above will output the following results sorted by similarity score in descending order:
     
     [{"query":"Congo",
       "results":
