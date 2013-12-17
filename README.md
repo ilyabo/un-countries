@@ -6,7 +6,7 @@ of the country names.
 
 ## Usage
 
-lein git-deps
-echo "Congo" | lein run
+    lein git-deps
+    echo "Congo" | lein run
 
 
