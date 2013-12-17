@@ -1,6 +1,6 @@
 # un-countries
 
-Tries to find best matches in the UN countries list by the country names
+Finds best matches in the UN countries list for country names
 helping to overcome problems caused by non-canonical spelling.
 
 ## Prerequisites
