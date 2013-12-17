@@ -1,4 +1,4 @@
-# un-countries
+# UN countries
 
 Finds best matches in the UN countries list for country names
 helping to overcome problems caused by non-canonical spellings.
