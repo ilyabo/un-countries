@@ -1,7 +1,7 @@
 # un-countries
 
 Finds best matches in the UN countries list for country names
-helping to overcome problems caused by non-canonical spelling.
+helping to overcome problems caused by non-canonical spellings.
 
 ## Prerequisites
 
